@@ -1,2 +1,2 @@
-# Iki_resim_aras-ndaki_fark_basit_DL_uyulamasi
-iki resim arasındaki farkları CONVNET ile çözümleme 
+# The difference between two pictures is an example of deep learning
+-Analyzing the differences between two pictures with the CONVNET method
